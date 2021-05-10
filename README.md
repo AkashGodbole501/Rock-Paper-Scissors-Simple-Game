@@ -1,0 +1,2 @@
+# Rock-Paper-Scissors-Simple-Game
+I'm successfully completed First Python project is build using python tkinter (GUI Library), random modules and the basic concept of python. The object of the rock-paper-scissor python project is to build a game for a single player that plays with a computer. In this game, players have to choose any one from rock, paper and scissors. Then click on the play button will show the result of the game.
